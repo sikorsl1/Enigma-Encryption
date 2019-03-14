@@ -1,0 +1,4 @@
+pary du¿ych liter [ustawienia ³¹cznicy, tylko w jednej lini, para oddzielona od innej sapcj¹]
+liczba liczba liczba [od 1 do 5, ustawienia rotorów] 
+liczba liczba [od 1 do 26, ustawienia pierœcieni]
+tekst [wielkimi literami]
